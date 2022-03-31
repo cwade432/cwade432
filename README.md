@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="background-color: #f18973;"> 
+<div background-color: #f18973;> 
   <h1> My name is Caleb Wade
 </div>
   
