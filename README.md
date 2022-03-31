@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-  <div> 
+  <div id="header"> 
     <h3> About me </h3>
   </div>
   
