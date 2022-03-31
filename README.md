@@ -9,7 +9,17 @@
 </div>
 
   <div id="header"> 
-    <h3> About me </h3>
+    <h2> About me </h2>
+      <p>
+        Graduating with an associates degree in Computer Information Techonologies. \n
+        I enjoy learning new things and understanding how they work!
+    <ul> 
+      <li> a </li>
+      <li> b </li>
+      <li> c </li>
+      <li> d </li>
+    </ul>
+      </p>
   </div>
   
 <!--
