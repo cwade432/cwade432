@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div> 
+<div id="header"> 
   <h1> My name is Caleb Wade
 </div>
   
