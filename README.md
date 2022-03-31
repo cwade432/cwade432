@@ -11,7 +11,7 @@
   <div id="header"> 
     <h2> About me </h2>
       <p>
-        Graduating with an associates degree in Computer Information Techonologies. \n
+        Graduating with an associates degree in Computer Information Techonologies.
         I enjoy learning new things and understanding how they work!
     <ul> 
       <li> a </li>
