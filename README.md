@@ -9,7 +9,7 @@
 </div>
 
   <div> 
-    <h4> About me </h4>
+    <h3> About me </h3>
   </div>
   
 <!--
