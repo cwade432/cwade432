@@ -21,6 +21,8 @@
         </ul>
       </p>
   <a href='https://github.com/cwade432/WDV341Github/tree/main/ContactPage'>Php Contact Page</a>
+  <a href='https://github.com/cwade432/SpringEsports'>Spring Boot Esports Team</a>
+  <a href='https://github.com/cwade432/WDV341Github/tree/main/ContactPage'>Php Contact Page</a>
   </div>
   
 <!--
