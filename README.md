@@ -13,13 +13,14 @@
       <p>
         Graduating with an associates degree in Computer Information Techonologies.
         I enjoy learning new things and understanding how they work!
-    <ul> 
-      <li> a </li>
-      <li> b </li>
-      <li> c </li>
-      <li> d </li>
-    </ul>
+        <ul> 
+          <li> a </li>
+          <li> b </li>
+          <li> c </li>
+          <li> d </li>
+        </ul>
       </p>
+  <a href='https://github.com/cwade432/WDV341Github/tree/main/ContactPage'>Php Contact Page</a>
   </div>
   
 <!--
