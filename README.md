@@ -24,7 +24,7 @@
     Project Links:
   <ul>
       <li> <a href='https://github.com/cwade432/WDV341Github/tree/main/ContactPage'>Php Contact Page</a> </li>
-      <li> <a href='https://github.com/cwade432/SpringEsports'>Spring Boot Esports Team</a> </li>
+      <li> <a href='https://github.com/cwade432/SpringMcvEsports'>Spring Boot Esports Team</a> </li>
       <li> <a href='https://github.com/cwade432/WDV341Github/tree/main/ContactPage'>Php Contact Page</a> </li>
   </ul>
   </p>
