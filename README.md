@@ -21,7 +21,7 @@
         </ul>
       </p>
   <p>
-    Project Links:
+  <h3>Project Links:</h3>
   <ul>
       <li> <a href='https://github.com/cwade432/WDV341Github/tree/main/ContactPage'>Php Contact Page</a> </li>
       <li> <a href='https://github.com/cwade432/SpringMcvEsports'>Spring Boot Esports Team</a> </li>
