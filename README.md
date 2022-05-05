@@ -11,14 +11,10 @@
   <div id="header"> 
     <h2> About me </h2>
       <p>
-        Graduating with an associates degree in Computer Information Techonologies.
-        I enjoy learning new things and understanding how they work!
-        <ul> 
-          <li> a </li>
-          <li> b </li>
-          <li> c </li>
-          <li> d </li>
-        </ul>
+        Recent Computer Information Systems graduate with fundamental knowledge 
+        of application design, development, and testing. Passionate about learning new 
+        technologies and bringing ideas to life. Coding does not solve the problem, it 
+        proves a solutio.
       </p>
   <p>
   <h3>Project Links:</h3>
