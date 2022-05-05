@@ -14,7 +14,7 @@
         Recent Computer Information Systems graduate with fundamental knowledge 
         of application design, development, and testing. Passionate about learning new 
         technologies and bringing ideas to life. Coding does not solve the problem, it 
-        proves a solutio.
+        proves a solution.
       </p>
   <p>
   <h3>Project Links:</h3>
