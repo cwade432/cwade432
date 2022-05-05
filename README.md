@@ -22,6 +22,7 @@
       <li> <a href='https://github.com/cwade432/WDV341Github/tree/main/ContactPage'>Php Contact Page</a> </li>
       <li> <a href='https://github.com/cwade432/SpringMcvEsports'>Spring Boot Esports Team</a> </li>
       <li> <a href=https://github.com/cwade432/TFTcompTrackerGui>Java Tft Tracker</a> </li>
+      <li> <a href=https://github.com/cwade432/MinesweeperFinal>Minesweeper Game</a> </li>
   </ul>
   </p>
   </div>
